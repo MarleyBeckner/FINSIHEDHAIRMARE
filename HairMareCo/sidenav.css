@@ -268,3 +268,7 @@ body{
     margin-right: 250px;
   }
 
+  .container{
+    margin: auto;
+    width: 200px;
+  }
